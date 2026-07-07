@@ -1,0 +1,3588 @@
+fileFormatVersion: 2
+guid: 71ee2935172800f48afff0f0c1ae3706
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7756150970276052589
+    second: SNES - Mega Man X - Enemies - Enemies 1_0
+  - first:
+      213: 5785324052794333866
+    second: SNES - Mega Man X - Enemies - Enemies 1_1
+  - first:
+      213: -6468876776055342972
+    second: SNES - Mega Man X - Enemies - Enemies 1_2
+  - first:
+      213: 6540175099185050639
+    second: SNES - Mega Man X - Enemies - Enemies 1_3
+  - first:
+      213: -3651679704229513019
+    second: SNES - Mega Man X - Enemies - Enemies 1_4
+  - first:
+      213: -8417273496569408343
+    second: SNES - Mega Man X - Enemies - Enemies 1_5
+  - first:
+      213: 3016182192815808957
+    second: SNES - Mega Man X - Enemies - Enemies 1_6
+  - first:
+      213: 5435116406454212870
+    second: SNES - Mega Man X - Enemies - Enemies 1_7
+  - first:
+      213: -1509268250391471758
+    second: SNES - Mega Man X - Enemies - Enemies 1_8
+  - first:
+      213: 2904388986505240401
+    second: SNES - Mega Man X - Enemies - Enemies 1_9
+  - first:
+      213: -6801579254700851915
+    second: SNES - Mega Man X - Enemies - Enemies 1_10
+  - first:
+      213: -2069539078291521564
+    second: SNES - Mega Man X - Enemies - Enemies 1_11
+  - first:
+      213: 4444503326128334026
+    second: SNES - Mega Man X - Enemies - Enemies 1_12
+  - first:
+      213: -3598108023797167436
+    second: SNES - Mega Man X - Enemies - Enemies 1_13
+  - first:
+      213: 3647461014157920009
+    second: SNES - Mega Man X - Enemies - Enemies 1_14
+  - first:
+      213: 6542114371370744787
+    second: SNES - Mega Man X - Enemies - Enemies 1_15
+  - first:
+      213: 6282826810394514031
+    second: SNES - Mega Man X - Enemies - Enemies 1_16
+  - first:
+      213: -409584285220156502
+    second: SNES - Mega Man X - Enemies - Enemies 1_17
+  - first:
+      213: 2484272175216986138
+    second: SNES - Mega Man X - Enemies - Enemies 1_18
+  - first:
+      213: -8741462097333769666
+    second: SNES - Mega Man X - Enemies - Enemies 1_19
+  - first:
+      213: -7769615304180036399
+    second: SNES - Mega Man X - Enemies - Enemies 1_20
+  - first:
+      213: 2890654638638285975
+    second: SNES - Mega Man X - Enemies - Enemies 1_21
+  - first:
+      213: -2761519740202125402
+    second: SNES - Mega Man X - Enemies - Enemies 1_22
+  - first:
+      213: -198576766068939096
+    second: SNES - Mega Man X - Enemies - Enemies 1_23
+  - first:
+      213: 6164364262577769389
+    second: SNES - Mega Man X - Enemies - Enemies 1_24
+  - first:
+      213: -7043003407256505929
+    second: SNES - Mega Man X - Enemies - Enemies 1_25
+  - first:
+      213: 7329077859810738887
+    second: SNES - Mega Man X - Enemies - Enemies 1_26
+  - first:
+      213: -4936877690652743396
+    second: SNES - Mega Man X - Enemies - Enemies 1_27
+  - first:
+      213: 7290557624315069454
+    second: SNES - Mega Man X - Enemies - Enemies 1_28
+  - first:
+      213: -264925464315535885
+    second: SNES - Mega Man X - Enemies - Enemies 1_29
+  - first:
+      213: 7450261786344097764
+    second: SNES - Mega Man X - Enemies - Enemies 1_30
+  - first:
+      213: 1064540153133043495
+    second: SNES - Mega Man X - Enemies - Enemies 1_31
+  - first:
+      213: 5678453212646696343
+    second: SNES - Mega Man X - Enemies - Enemies 1_32
+  - first:
+      213: -5733638987715937252
+    second: SNES - Mega Man X - Enemies - Enemies 1_33
+  - first:
+      213: -1984001690919769542
+    second: SNES - Mega Man X - Enemies - Enemies 1_34
+  - first:
+      213: 8373284558773148651
+    second: SNES - Mega Man X - Enemies - Enemies 1_35
+  - first:
+      213: 3311573700765831460
+    second: SNES - Mega Man X - Enemies - Enemies 1_36
+  - first:
+      213: -5308452776173564104
+    second: SNES - Mega Man X - Enemies - Enemies 1_37
+  - first:
+      213: 3243422970679722289
+    second: SNES - Mega Man X - Enemies - Enemies 1_38
+  - first:
+      213: 6073419943779656108
+    second: SNES - Mega Man X - Enemies - Enemies 1_39
+  - first:
+      213: -5498042592838727162
+    second: SNES - Mega Man X - Enemies - Enemies 1_40
+  - first:
+      213: 8328510248610361701
+    second: SNES - Mega Man X - Enemies - Enemies 1_41
+  - first:
+      213: 4047035231149375795
+    second: SNES - Mega Man X - Enemies - Enemies 1_42
+  - first:
+      213: -1484052594547838773
+    second: SNES - Mega Man X - Enemies - Enemies 1_43
+  - first:
+      213: 4432012295126708685
+    second: SNES - Mega Man X - Enemies - Enemies 1_44
+  - first:
+      213: -4620690166247575375
+    second: SNES - Mega Man X - Enemies - Enemies 1_45
+  - first:
+      213: 2455415479607480957
+    second: SNES - Mega Man X - Enemies - Enemies 1_46
+  - first:
+      213: 8099050071543587862
+    second: SNES - Mega Man X - Enemies - Enemies 1_47
+  - first:
+      213: -8198795216335563694
+    second: SNES - Mega Man X - Enemies - Enemies 1_48
+  - first:
+      213: 1528844534533201428
+    second: SNES - Mega Man X - Enemies - Enemies 1_49
+  - first:
+      213: -5391595665028670763
+    second: SNES - Mega Man X - Enemies - Enemies 1_50
+  - first:
+      213: 2398626918457951185
+    second: SNES - Mega Man X - Enemies - Enemies 1_51
+  - first:
+      213: -418636188072206978
+    second: SNES - Mega Man X - Enemies - Enemies 1_52
+  - first:
+      213: -8539411286007944381
+    second: SNES - Mega Man X - Enemies - Enemies 1_53
+  - first:
+      213: -9108450810089936248
+    second: SNES - Mega Man X - Enemies - Enemies 1_54
+  - first:
+      213: 8982692458043471365
+    second: SNES - Mega Man X - Enemies - Enemies 1_55
+  - first:
+      213: 8166073309743509891
+    second: SNES - Mega Man X - Enemies - Enemies 1_56
+  - first:
+      213: 7639689307697448249
+    second: SNES - Mega Man X - Enemies - Enemies 1_57
+  - first:
+      213: 4889815636788466669
+    second: SNES - Mega Man X - Enemies - Enemies 1_58
+  - first:
+      213: -244277156466044149
+    second: SNES - Mega Man X - Enemies - Enemies 1_59
+  - first:
+      213: -6768184527619255274
+    second: SNES - Mega Man X - Enemies - Enemies 1_60
+  - first:
+      213: -4061523542468687690
+    second: SNES - Mega Man X - Enemies - Enemies 1_61
+  - first:
+      213: -6375239071683017421
+    second: SNES - Mega Man X - Enemies - Enemies 1_62
+  - first:
+      213: 2776836094613045160
+    second: SNES - Mega Man X - Enemies - Enemies 1_63
+  - first:
+      213: -3653488289489069726
+    second: SNES - Mega Man X - Enemies - Enemies 1_64
+  - first:
+      213: -4289193057375240463
+    second: SNES - Mega Man X - Enemies - Enemies 1_65
+  - first:
+      213: -8193791641024756050
+    second: SNES - Mega Man X - Enemies - Enemies 1_66
+  - first:
+      213: -7453724307282125804
+    second: SNES - Mega Man X - Enemies - Enemies 1_67
+  - first:
+      213: -923327470031243739
+    second: SNES - Mega Man X - Enemies - Enemies 1_68
+  - first:
+      213: -1112390938403199286
+    second: SNES - Mega Man X - Enemies - Enemies 1_69
+  - first:
+      213: -2129796177303862885
+    second: SNES - Mega Man X - Enemies - Enemies 1_70
+  - first:
+      213: 1543512309635395290
+    second: SNES - Mega Man X - Enemies - Enemies 1_71
+  - first:
+      213: 487573006452001705
+    second: SNES - Mega Man X - Enemies - Enemies 1_72
+  - first:
+      213: 6563829779455207855
+    second: SNES - Mega Man X - Enemies - Enemies 1_73
+  - first:
+      213: -4544998575218921778
+    second: SNES - Mega Man X - Enemies - Enemies 1_74
+  - first:
+      213: 4534713031033199898
+    second: SNES - Mega Man X - Enemies - Enemies 1_75
+  - first:
+      213: 7901690464167745220
+    second: SNES - Mega Man X - Enemies - Enemies 1_76
+  - first:
+      213: -4121343040430359569
+    second: SNES - Mega Man X - Enemies - Enemies 1_77
+  - first:
+      213: 2137767738765304226
+    second: SNES - Mega Man X - Enemies - Enemies 1_78
+  - first:
+      213: -892474660374808221
+    second: SNES - Mega Man X - Enemies - Enemies 1_79
+  - first:
+      213: -3971055645632044652
+    second: SNES - Mega Man X - Enemies - Enemies 1_80
+  - first:
+      213: 3222161273671103687
+    second: SNES - Mega Man X - Enemies - Enemies 1_81
+  - first:
+      213: -7094262156502043707
+    second: SNES - Mega Man X - Enemies - Enemies 1_82
+  - first:
+      213: 2901885706386283822
+    second: SNES - Mega Man X - Enemies - Enemies 1_83
+  - first:
+      213: 5236936195869367528
+    second: SNES - Mega Man X - Enemies - Enemies 1_84
+  - first:
+      213: 7537438636338572289
+    second: SNES - Mega Man X - Enemies - Enemies 1_85
+  - first:
+      213: -6359766905731693729
+    second: SNES - Mega Man X - Enemies - Enemies 1_86
+  - first:
+      213: 7714534518332742986
+    second: SNES - Mega Man X - Enemies - Enemies 1_87
+  - first:
+      213: -2943887414443737231
+    second: SNES - Mega Man X - Enemies - Enemies 1_88
+  - first:
+      213: -754316020780829556
+    second: SNES - Mega Man X - Enemies - Enemies 1_89
+  - first:
+      213: 822254290640339226
+    second: SNES - Mega Man X - Enemies - Enemies 1_90
+  - first:
+      213: -4476162410754712462
+    second: SNES - Mega Man X - Enemies - Enemies 1_91
+  - first:
+      213: -1214461010545729898
+    second: SNES - Mega Man X - Enemies - Enemies 1_92
+  - first:
+      213: -1784998432025380891
+    second: SNES - Mega Man X - Enemies - Enemies 1_93
+  - first:
+      213: -3013124235755216166
+    second: SNES - Mega Man X - Enemies - Enemies 1_94
+  - first:
+      213: 7895299651313005450
+    second: SNES - Mega Man X - Enemies - Enemies 1_95
+  - first:
+      213: -1049784507815483884
+    second: SNES - Mega Man X - Enemies - Enemies 1_96
+  - first:
+      213: -4410227447488803362
+    second: SNES - Mega Man X - Enemies - Enemies 1_97
+  - first:
+      213: -2077970932702177899
+    second: SNES - Mega Man X - Enemies - Enemies 1_98
+  - first:
+      213: 6685385689430951001
+    second: SNES - Mega Man X - Enemies - Enemies 1_99
+  - first:
+      213: -7728664290281846139
+    second: SNES - Mega Man X - Enemies - Enemies 1_100
+  - first:
+      213: 3590899985158663395
+    second: SNES - Mega Man X - Enemies - Enemies 1_101
+  - first:
+      213: -2113520121889244537
+    second: SNES - Mega Man X - Enemies - Enemies 1_102
+  - first:
+      213: 2372826700776493175
+    second: SNES - Mega Man X - Enemies - Enemies 1_103
+  - first:
+      213: 7512051786745422084
+    second: SNES - Mega Man X - Enemies - Enemies 1_104
+  - first:
+      213: 4745434199401666116
+    second: SNES - Mega Man X - Enemies - Enemies 1_105
+  - first:
+      213: -435740599882859157
+    second: SNES - Mega Man X - Enemies - Enemies 1_106
+  - first:
+      213: 8948995068719971586
+    second: SNES - Mega Man X - Enemies - Enemies 1_107
+  - first:
+      213: -558625177551457566
+    second: SNES - Mega Man X - Enemies - Enemies 1_108
+  - first:
+      213: 1189025694349122430
+    second: SNES - Mega Man X - Enemies - Enemies 1_109
+  - first:
+      213: 8950952105708270990
+    second: SNES - Mega Man X - Enemies - Enemies 1_110
+  - first:
+      213: 3534227276117715740
+    second: SNES - Mega Man X - Enemies - Enemies 1_111
+  - first:
+      213: -126708262152467299
+    second: SNES - Mega Man X - Enemies - Enemies 1_112
+  - first:
+      213: 6138488189016910877
+    second: SNES - Mega Man X - Enemies - Enemies 1_113
+  - first:
+      213: 4062454458107885039
+    second: SNES - Mega Man X - Enemies - Enemies 1_114
+  - first:
+      213: 2459134245666868420
+    second: SNES - Mega Man X - Enemies - Enemies 1_115
+  - first:
+      213: -5974255555179642875
+    second: SNES - Mega Man X - Enemies - Enemies 1_116
+  - first:
+      213: 3118218973336284134
+    second: SNES - Mega Man X - Enemies - Enemies 1_117
+  - first:
+      213: 4212355158316442410
+    second: SNES - Mega Man X - Enemies - Enemies 1_118
+  - first:
+      213: 8260845494469717844
+    second: SNES - Mega Man X - Enemies - Enemies 1_119
+  - first:
+      213: -1481719108589406827
+    second: SNES - Mega Man X - Enemies - Enemies 1_120
+  - first:
+      213: -7962978856328933174
+    second: SNES - Mega Man X - Enemies - Enemies 1_121
+  - first:
+      213: 2960862710344595830
+    second: SNES - Mega Man X - Enemies - Enemies 1_122
+  - first:
+      213: 4200284573699959727
+    second: SNES - Mega Man X - Enemies - Enemies 1_123
+  - first:
+      213: 3889439335493193361
+    second: SNES - Mega Man X - Enemies - Enemies 1_124
+  - first:
+      213: -4155690258176472467
+    second: SNES - Mega Man X - Enemies - Enemies 1_125
+  - first:
+      213: 6080243599737808404
+    second: SNES - Mega Man X - Enemies - Enemies 1_126
+  - first:
+      213: -916096489521165125
+    second: SNES - Mega Man X - Enemies - Enemies 1_127
+  - first:
+      213: 3435130935774106709
+    second: SNES - Mega Man X - Enemies - Enemies 1_128
+  - first:
+      213: -3058867798785320962
+    second: SNES - Mega Man X - Enemies - Enemies 1_129
+  - first:
+      213: 9053611463753791971
+    second: SNES - Mega Man X - Enemies - Enemies 1_130
+  - first:
+      213: 8544853998002384965
+    second: SNES - Mega Man X - Enemies - Enemies 1_131
+  - first:
+      213: 4284196444546185664
+    second: SNES - Mega Man X - Enemies - Enemies 1_132
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1246
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 391056059cd9c5490800000000000000
+      internalID: -7756150970276052589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_1
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1245
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa5455f299994050800000000000000
+      internalID: 5785324052794333866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_2
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1244
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 488727388dee936a0800000000000000
+      internalID: -6468876776055342972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_3
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1246
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f04b7c3f99e53ca50800000000000000
+      internalID: 6540175099185050639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_4
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1245
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c875eb08a0a25dc0800000000000000
+      internalID: -3651679704229513019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_5
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1244
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a49babf956df2b80800000000000000
+      internalID: -8417273496569408343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_6
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1245
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db125a459b1abd920800000000000000
+      internalID: 3016182192815808957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_7
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1244
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 609d99f33996d6b40800000000000000
+      internalID: 5435116406454212870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_8
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1243
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27914a0d5800e0be0800000000000000
+      internalID: -1509268250391471758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_9
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1275
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15f933625667e4820800000000000000
+      internalID: 2904388986505240401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_10
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1259
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53db3e344bfeb91a0800000000000000
+      internalID: -6801579254700851915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_11
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1242
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eff4a55c258743e0800000000000000
+      internalID: -2069539078291521564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_12
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1198
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac4ebe42a3c0ead30800000000000000
+      internalID: 4444503326128334026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_13
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1198
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ba4612e0d3f01ec0800000000000000
+      internalID: -3598108023797167436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_14
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1198
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90708f0a7726e9230800000000000000
+      internalID: 3647461014157920009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_15
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1198
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dbf781fb524aca50800000000000000
+      internalID: 6542114371370744787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_16
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1198
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f629dda32b5113750800000000000000
+      internalID: 6282826810394514031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_17
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1148
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aabcedd334dd05af0800000000000000
+      internalID: -409584285220156502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_18
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1148
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1802319168e97220800000000000000
+      internalID: 2484272175216986138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_19
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1148
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3a21e6698610b680800000000000000
+      internalID: -8741462097333769666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_20
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1148
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dc09e8cb08cc2490800000000000000
+      internalID: -7769615304180036399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_21
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1148
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 794ce58141bad1820800000000000000
+      internalID: 2890654638638285975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_22
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1098
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a7f50d6d6c1da9d0800000000000000
+      internalID: -2761519740202125402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_23
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1098
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a6a0ddbb738e3df0800000000000000
+      internalID: -198576766068939096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_24
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1098
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dab8f09f2a83c8550800000000000000
+      internalID: 6164364262577769389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_25
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1098
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b13c9e67b9324e90800000000000000
+      internalID: -7043003407256505929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_26
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1098
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c2033d7b7d16b560800000000000000
+      internalID: 7329077859810738887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_27
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 997
+        width: 127
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c19a715a5efac7bb0800000000000000
+      internalID: -4936877690652743396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_28
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 996
+        width: 113
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e04c0d348834d2560800000000000000
+      internalID: 7290557624315069454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_29
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 996
+        width: 113
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fd548f91bbc25cf0800000000000000
+      internalID: -264925464315535885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_30
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 872
+        width: 127
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e705ba1f95a46760800000000000000
+      internalID: 7450261786344097764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_31
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 871
+        width: 113
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72f82ac01a106ce00800000000000000
+      internalID: 1064540153133043495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_32
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 871
+        width: 113
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7956b757c1bedce40800000000000000
+      internalID: 5678453212646696343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_33
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 859
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c7cd208b50e60b0800000000000000
+      internalID: -5733638987715937252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_34
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 858
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3ae3fa49f86774e0800000000000000
+      internalID: -1984001690919769542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_35
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 858
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bebdfe051f1e33470800000000000000
+      internalID: 8373284558773148651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_36
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 727
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4215ca14cb215fd20800000000000000
+      internalID: 3311573700765831460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_37
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 747
+        width: 127
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83f0d3153569456b0800000000000000
+      internalID: -5308452776173564104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_38
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 726
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13105b7e104f20d20800000000000000
+      internalID: 3243422970679722289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_39
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 746
+        width: 113
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca162c0b24f194450800000000000000
+      internalID: 6073419943779656108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_40
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 726
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60a41e5446703b3b0800000000000000
+      internalID: -5498042592838727162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_41
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 746
+        width: 113
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 561fe9cd1ffc49370800000000000000
+      internalID: 8328510248610361701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_42
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 640
+        width: 113
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3314622c915f92830800000000000000
+      internalID: 4047035231149375795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_43
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 661
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc0baf13706976be0800000000000000
+      internalID: -1484052594547838773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_44
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 669
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc1f03b53bba18d30800000000000000
+      internalID: 4432012295126708685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_45
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 648
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b03ca776c200efb0800000000000000
+      internalID: -4620690166247575375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_46
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 596
+        width: 70
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d72dffd8e53631220800000000000000
+      internalID: 2455415479607480957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_47
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 596
+        width: 80
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6142574212b956070800000000000000
+      internalID: 8099050071543587862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_48
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 596
+        width: 80
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25495289037083e80800000000000000
+      internalID: -8198795216335563694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_49
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 596
+        width: 70
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e16a5010c873510800000000000000
+      internalID: 1528844534533201428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_50
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 597
+        width: 58
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5da1e6dfe443d25b0800000000000000
+      internalID: -5391595665028670763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_51
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 611
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d3406f4972a94120800000000000000
+      internalID: 2398626918457951185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_52
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 553
+        width: 68
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7d15dfda94b03af0800000000000000
+      internalID: -418636188072206978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_53
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 554
+        width: 68
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34be88addaaed7980800000000000000
+      internalID: -8539411286007944381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_54
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 554
+        width: 66
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88a68723f38489180800000000000000
+      internalID: -9108450810089936248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_55
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 554
+        width: 66
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 506f240c23fe8ac70800000000000000
+      internalID: 8982692458043471365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_56
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 547
+        width: 59
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3817f05d868b35170800000000000000
+      internalID: 8166073309743509891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_57
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 486
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93508a3d2f0a50a60800000000000000
+      internalID: 7639689307697448249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_58
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 485
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de35def0a6d1cd340800000000000000
+      internalID: 4889815636788466669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_59
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 488
+        width: 46
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b03591e68372c9cf0800000000000000
+      internalID: -244277156466044149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_60
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 489
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61495f018049212a0800000000000000
+      internalID: -6768184527619255274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_61
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 490
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b884446bd192a7c0800000000000000
+      internalID: -4061523542468687690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_62
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 491
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 335842e77d99687a0800000000000000
+      internalID: -6375239071683017421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_63
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 490
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8afb4ea37bd498620800000000000000
+      internalID: 2776836094613045160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_64
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 525
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26954f9f1c33c4dc0800000000000000
+      internalID: -3653488289489069726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_65
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 526
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1feb312b3a9b974c0800000000000000
+      internalID: -4289193057375240463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_66
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 526
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea687214aedc94e80800000000000000
+      internalID: -8193791641024756050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_67
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 493
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41c11caeb3d0f8890800000000000000
+      internalID: -7453724307282125804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_68
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 492
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5267d69de8eaf23f0800000000000000
+      internalID: -923327470031243739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_69
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 492
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac62d11d55eff80f0800000000000000
+      internalID: -1112390938403199286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 413
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9181df29a17172e0800000000000000
+      internalID: -2129796177303862885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_71
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 413
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adea24a8448ab6510800000000000000
+      internalID: 1543512309635395290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_72
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 413
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab04abe01534c600800000000000000
+      internalID: 487573006452001705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_73
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 413
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa9ee826868671b50800000000000000
+      internalID: 6563829779455207855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_74
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 413
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ece6b6350ebece0c0800000000000000
+      internalID: -4544998575218921778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_75
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 413
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1d911dc9798eee30800000000000000
+      internalID: 4534713031033199898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_76
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 416
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c65fc9bc9178ad60800000000000000
+      internalID: 7901690464167745220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_77
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 413
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: febbe9d275c0ec6c0800000000000000
+      internalID: -4121343040430359569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_78
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 412
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a165699e60eaad10800000000000000
+      internalID: 2137767738765304226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_79
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 412
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3697251660b4d93f0800000000000000
+      internalID: -892474660374808221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 346
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 491eaca0ee9f3e8c0800000000000000
+      internalID: -3971055645632044652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_81
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 347
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c4bf2e4b9a67bc20800000000000000
+      internalID: 3222161273671103687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_82
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 347
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c3f23ad72e1c8d90800000000000000
+      internalID: -7094262156502043707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_83
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 346
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2d10f3dca1954820800000000000000
+      internalID: 2901885706386283822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_84
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 346
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ecdd2249b55da840800000000000000
+      internalID: 5236936195869367528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_85
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 344
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10ce343318c5a9860800000000000000
+      internalID: 7537438636338572289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_86
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 342
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f53c399d1b19db7a0800000000000000
+      internalID: -6359766905731693729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_87
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 340
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4d56b465488f0b60800000000000000
+      internalID: 7714534518332742986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 296
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17f76537ef53527d0800000000000000
+      internalID: -2943887414443737231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_89
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 297
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c84f8fc53912885f0800000000000000
+      internalID: -754316020780829556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_90
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 297
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1188acbbeb396b00800000000000000
+      internalID: 822254290640339226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_91
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 320
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27c520ec00a71e1c0800000000000000
+      internalID: -4476162410754712462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_92
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 297
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69e1cd8352e552fe0800000000000000
+      internalID: -1214461010545729898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_93
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 297
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e77f7622696a37e0800000000000000
+      internalID: -1784998432025380891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_94
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 297
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad2a0b7c87b3f26d0800000000000000
+      internalID: -3013124235755216166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_95
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 239
+        width: 27
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a83f6c7a33db19d60800000000000000
+      internalID: 7895299651313005450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_96
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 239
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41623f85d8a6e61f0800000000000000
+      internalID: -1049784507815483884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_97
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 239
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edd80cdb089bbc2c0800000000000000
+      internalID: -4410227447488803362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_98
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 239
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59513be32709923e0800000000000000
+      internalID: -2077970932702177899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_99
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 239
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95403052dd247cc50800000000000000
+      internalID: 6685385689430951001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_100
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 178
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58a0185b6c44eb490800000000000000
+      internalID: -7728664290281846139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_101
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 179
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ec6657d28075d130800000000000000
+      internalID: 3590899985158663395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_102
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 179
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78ab625a5a44ba2e0800000000000000
+      internalID: -2113520121889244537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_103
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 179
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77058550059fde020800000000000000
+      internalID: 2372826700776493175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_104
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 178
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 401ac4bac4b204860800000000000000
+      internalID: 7512051786745422084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_105
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 96
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4469350134b2bd140800000000000000
+      internalID: 4745434199401666116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_106
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 97
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6d34c9ab30f3f9f0800000000000000
+      internalID: -435740599882859157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_107
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 97
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20db6c7e997313c70800000000000000
+      internalID: 8948995068719971586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_108
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 98
+        width: 39
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5952268}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e2b4795c5d5f38f0800000000000000
+      internalID: -558625177551457566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_109
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 105
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7bdd7cb194408010800000000000000
+      internalID: 1189025694349122430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_110
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 105
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e85b646148b283c70800000000000000
+      internalID: 8950952105708270990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_111
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 105
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1b2e748bf81c0130800000000000000
+      internalID: 3534227276117715740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_112
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 105
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9c8b44c187dd3ef0800000000000000
+      internalID: -126708262152467299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_113
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 106
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1ca84c1c7a403550800000000000000
+      internalID: 6138488189016910877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_114
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 53
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe5f8bb4eccb06830800000000000000
+      internalID: 4062454458107885039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_115
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 53
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ccc8ff3199902220800000000000000
+      internalID: 2459134245666868420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_116
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 53
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5000d1cb93e271da0800000000000000
+      internalID: -5974255555179642875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_117
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 53
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eba79d92a3264b20800000000000000
+      internalID: 3118218973336284134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_118
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 53
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a236c3fc2ba457a30800000000000000
+      internalID: 4212355158316442410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_119
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 53
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45fe04a953b64a270800000000000000
+      internalID: 8260845494469717844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_120
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 53
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 595be9b3250ef6be0800000000000000
+      internalID: -1481719108589406827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_121
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 53
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac0519a7be0dd7190800000000000000
+      internalID: -7962978856328933174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_122
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 6
+        width: 41
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6793ace92f8171920800000000000000
+      internalID: 2960862710344595830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_123
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 5
+        width: 42
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fab60f2d0986a4a30800000000000000
+      internalID: 4200284573699959727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_124
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 5
+        width: 43
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19ec08fe7701af530800000000000000
+      internalID: 3889439335493193361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_125
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 5
+        width: 39
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6a07dc5ab50456c0800000000000000
+      internalID: -4155690258176472467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_126
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 7
+        width: 42
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 416e636e65d516450800000000000000
+      internalID: 6080243599737808404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_127
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 6
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbccb12b81f5943f0800000000000000
+      internalID: -916096489521165125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_128
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 10
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55455cfc2690caf20800000000000000
+      internalID: 3435130935774106709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_129
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 8
+        width: 40
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef7158e81f7bc85d0800000000000000
+      internalID: -3058867798785320962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_130
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 4
+        width: 42
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e9f27f78a3e4ad70800000000000000
+      internalID: 9053611463753791971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_131
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 19
+        width: 34
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5403288407b659670800000000000000
+      internalID: 8544853998002384965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Enemies - Enemies 1_132
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 0
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c9ba29b7f5847b30800000000000000
+      internalID: 4284196444546185664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d3bbf773be9940347b903f7f09f2d3ba
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SNES - Mega Man X - Enemies - Enemies 1_0: -7756150970276052589
+      SNES - Mega Man X - Enemies - Enemies 1_1: 5785324052794333866
+      SNES - Mega Man X - Enemies - Enemies 1_10: -6801579254700851915
+      SNES - Mega Man X - Enemies - Enemies 1_100: -7728664290281846139
+      SNES - Mega Man X - Enemies - Enemies 1_101: 3590899985158663395
+      SNES - Mega Man X - Enemies - Enemies 1_102: -2113520121889244537
+      SNES - Mega Man X - Enemies - Enemies 1_103: 2372826700776493175
+      SNES - Mega Man X - Enemies - Enemies 1_104: 7512051786745422084
+      SNES - Mega Man X - Enemies - Enemies 1_105: 4745434199401666116
+      SNES - Mega Man X - Enemies - Enemies 1_106: -435740599882859157
+      SNES - Mega Man X - Enemies - Enemies 1_107: 8948995068719971586
+      SNES - Mega Man X - Enemies - Enemies 1_108: -558625177551457566
+      SNES - Mega Man X - Enemies - Enemies 1_109: 1189025694349122430
+      SNES - Mega Man X - Enemies - Enemies 1_11: -2069539078291521564
+      SNES - Mega Man X - Enemies - Enemies 1_110: 8950952105708270990
+      SNES - Mega Man X - Enemies - Enemies 1_111: 3534227276117715740
+      SNES - Mega Man X - Enemies - Enemies 1_112: -126708262152467299
+      SNES - Mega Man X - Enemies - Enemies 1_113: 6138488189016910877
+      SNES - Mega Man X - Enemies - Enemies 1_114: 4062454458107885039
+      SNES - Mega Man X - Enemies - Enemies 1_115: 2459134245666868420
+      SNES - Mega Man X - Enemies - Enemies 1_116: -5974255555179642875
+      SNES - Mega Man X - Enemies - Enemies 1_117: 3118218973336284134
+      SNES - Mega Man X - Enemies - Enemies 1_118: 4212355158316442410
+      SNES - Mega Man X - Enemies - Enemies 1_119: 8260845494469717844
+      SNES - Mega Man X - Enemies - Enemies 1_12: 4444503326128334026
+      SNES - Mega Man X - Enemies - Enemies 1_120: -1481719108589406827
+      SNES - Mega Man X - Enemies - Enemies 1_121: -7962978856328933174
+      SNES - Mega Man X - Enemies - Enemies 1_122: 2960862710344595830
+      SNES - Mega Man X - Enemies - Enemies 1_123: 4200284573699959727
+      SNES - Mega Man X - Enemies - Enemies 1_124: 3889439335493193361
+      SNES - Mega Man X - Enemies - Enemies 1_125: -4155690258176472467
+      SNES - Mega Man X - Enemies - Enemies 1_126: 6080243599737808404
+      SNES - Mega Man X - Enemies - Enemies 1_127: -916096489521165125
+      SNES - Mega Man X - Enemies - Enemies 1_128: 3435130935774106709
+      SNES - Mega Man X - Enemies - Enemies 1_129: -3058867798785320962
+      SNES - Mega Man X - Enemies - Enemies 1_13: -3598108023797167436
+      SNES - Mega Man X - Enemies - Enemies 1_130: 9053611463753791971
+      SNES - Mega Man X - Enemies - Enemies 1_131: 8544853998002384965
+      SNES - Mega Man X - Enemies - Enemies 1_132: 4284196444546185664
+      SNES - Mega Man X - Enemies - Enemies 1_14: 3647461014157920009
+      SNES - Mega Man X - Enemies - Enemies 1_15: 6542114371370744787
+      SNES - Mega Man X - Enemies - Enemies 1_16: 6282826810394514031
+      SNES - Mega Man X - Enemies - Enemies 1_17: -409584285220156502
+      SNES - Mega Man X - Enemies - Enemies 1_18: 2484272175216986138
+      SNES - Mega Man X - Enemies - Enemies 1_19: -8741462097333769666
+      SNES - Mega Man X - Enemies - Enemies 1_2: -6468876776055342972
+      SNES - Mega Man X - Enemies - Enemies 1_20: -7769615304180036399
+      SNES - Mega Man X - Enemies - Enemies 1_21: 2890654638638285975
+      SNES - Mega Man X - Enemies - Enemies 1_22: -2761519740202125402
+      SNES - Mega Man X - Enemies - Enemies 1_23: -198576766068939096
+      SNES - Mega Man X - Enemies - Enemies 1_24: 6164364262577769389
+      SNES - Mega Man X - Enemies - Enemies 1_25: -7043003407256505929
+      SNES - Mega Man X - Enemies - Enemies 1_26: 7329077859810738887
+      SNES - Mega Man X - Enemies - Enemies 1_27: -4936877690652743396
+      SNES - Mega Man X - Enemies - Enemies 1_28: 7290557624315069454
+      SNES - Mega Man X - Enemies - Enemies 1_29: -264925464315535885
+      SNES - Mega Man X - Enemies - Enemies 1_3: 6540175099185050639
+      SNES - Mega Man X - Enemies - Enemies 1_30: 7450261786344097764
+      SNES - Mega Man X - Enemies - Enemies 1_31: 1064540153133043495
+      SNES - Mega Man X - Enemies - Enemies 1_32: 5678453212646696343
+      SNES - Mega Man X - Enemies - Enemies 1_33: -5733638987715937252
+      SNES - Mega Man X - Enemies - Enemies 1_34: -1984001690919769542
+      SNES - Mega Man X - Enemies - Enemies 1_35: 8373284558773148651
+      SNES - Mega Man X - Enemies - Enemies 1_36: 3311573700765831460
+      SNES - Mega Man X - Enemies - Enemies 1_37: -5308452776173564104
+      SNES - Mega Man X - Enemies - Enemies 1_38: 3243422970679722289
+      SNES - Mega Man X - Enemies - Enemies 1_39: 6073419943779656108
+      SNES - Mega Man X - Enemies - Enemies 1_4: -3651679704229513019
+      SNES - Mega Man X - Enemies - Enemies 1_40: -5498042592838727162
+      SNES - Mega Man X - Enemies - Enemies 1_41: 8328510248610361701
+      SNES - Mega Man X - Enemies - Enemies 1_42: 4047035231149375795
+      SNES - Mega Man X - Enemies - Enemies 1_43: -1484052594547838773
+      SNES - Mega Man X - Enemies - Enemies 1_44: 4432012295126708685
+      SNES - Mega Man X - Enemies - Enemies 1_45: -4620690166247575375
+      SNES - Mega Man X - Enemies - Enemies 1_46: 2455415479607480957
+      SNES - Mega Man X - Enemies - Enemies 1_47: 8099050071543587862
+      SNES - Mega Man X - Enemies - Enemies 1_48: -8198795216335563694
+      SNES - Mega Man X - Enemies - Enemies 1_49: 1528844534533201428
+      SNES - Mega Man X - Enemies - Enemies 1_5: -8417273496569408343
+      SNES - Mega Man X - Enemies - Enemies 1_50: -5391595665028670763
+      SNES - Mega Man X - Enemies - Enemies 1_51: 2398626918457951185
+      SNES - Mega Man X - Enemies - Enemies 1_52: -418636188072206978
+      SNES - Mega Man X - Enemies - Enemies 1_53: -8539411286007944381
+      SNES - Mega Man X - Enemies - Enemies 1_54: -9108450810089936248
+      SNES - Mega Man X - Enemies - Enemies 1_55: 8982692458043471365
+      SNES - Mega Man X - Enemies - Enemies 1_56: 8166073309743509891
+      SNES - Mega Man X - Enemies - Enemies 1_57: 7639689307697448249
+      SNES - Mega Man X - Enemies - Enemies 1_58: 4889815636788466669
+      SNES - Mega Man X - Enemies - Enemies 1_59: -244277156466044149
+      SNES - Mega Man X - Enemies - Enemies 1_6: 3016182192815808957
+      SNES - Mega Man X - Enemies - Enemies 1_60: -6768184527619255274
+      SNES - Mega Man X - Enemies - Enemies 1_61: -4061523542468687690
+      SNES - Mega Man X - Enemies - Enemies 1_62: -6375239071683017421
+      SNES - Mega Man X - Enemies - Enemies 1_63: 2776836094613045160
+      SNES - Mega Man X - Enemies - Enemies 1_64: -3653488289489069726
+      SNES - Mega Man X - Enemies - Enemies 1_65: -4289193057375240463
+      SNES - Mega Man X - Enemies - Enemies 1_66: -8193791641024756050
+      SNES - Mega Man X - Enemies - Enemies 1_67: -7453724307282125804
+      SNES - Mega Man X - Enemies - Enemies 1_68: -923327470031243739
+      SNES - Mega Man X - Enemies - Enemies 1_69: -1112390938403199286
+      SNES - Mega Man X - Enemies - Enemies 1_7: 5435116406454212870
+      SNES - Mega Man X - Enemies - Enemies 1_70: -2129796177303862885
+      SNES - Mega Man X - Enemies - Enemies 1_71: 1543512309635395290
+      SNES - Mega Man X - Enemies - Enemies 1_72: 487573006452001705
+      SNES - Mega Man X - Enemies - Enemies 1_73: 6563829779455207855
+      SNES - Mega Man X - Enemies - Enemies 1_74: -4544998575218921778
+      SNES - Mega Man X - Enemies - Enemies 1_75: 4534713031033199898
+      SNES - Mega Man X - Enemies - Enemies 1_76: 7901690464167745220
+      SNES - Mega Man X - Enemies - Enemies 1_77: -4121343040430359569
+      SNES - Mega Man X - Enemies - Enemies 1_78: 2137767738765304226
+      SNES - Mega Man X - Enemies - Enemies 1_79: -892474660374808221
+      SNES - Mega Man X - Enemies - Enemies 1_8: -1509268250391471758
+      SNES - Mega Man X - Enemies - Enemies 1_80: -3971055645632044652
+      SNES - Mega Man X - Enemies - Enemies 1_81: 3222161273671103687
+      SNES - Mega Man X - Enemies - Enemies 1_82: -7094262156502043707
+      SNES - Mega Man X - Enemies - Enemies 1_83: 2901885706386283822
+      SNES - Mega Man X - Enemies - Enemies 1_84: 5236936195869367528
+      SNES - Mega Man X - Enemies - Enemies 1_85: 7537438636338572289
+      SNES - Mega Man X - Enemies - Enemies 1_86: -6359766905731693729
+      SNES - Mega Man X - Enemies - Enemies 1_87: 7714534518332742986
+      SNES - Mega Man X - Enemies - Enemies 1_88: -2943887414443737231
+      SNES - Mega Man X - Enemies - Enemies 1_89: -754316020780829556
+      SNES - Mega Man X - Enemies - Enemies 1_9: 2904388986505240401
+      SNES - Mega Man X - Enemies - Enemies 1_90: 822254290640339226
+      SNES - Mega Man X - Enemies - Enemies 1_91: -4476162410754712462
+      SNES - Mega Man X - Enemies - Enemies 1_92: -1214461010545729898
+      SNES - Mega Man X - Enemies - Enemies 1_93: -1784998432025380891
+      SNES - Mega Man X - Enemies - Enemies 1_94: -3013124235755216166
+      SNES - Mega Man X - Enemies - Enemies 1_95: 7895299651313005450
+      SNES - Mega Man X - Enemies - Enemies 1_96: -1049784507815483884
+      SNES - Mega Man X - Enemies - Enemies 1_97: -4410227447488803362
+      SNES - Mega Man X - Enemies - Enemies 1_98: -2077970932702177899
+      SNES - Mega Man X - Enemies - Enemies 1_99: 6685385689430951001
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

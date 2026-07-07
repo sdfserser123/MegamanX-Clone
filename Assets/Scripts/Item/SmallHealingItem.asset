@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 273a821c6bf0625468cbb7480f0cb8e9, type: 3}
+  m_Name: SmallHealingItem
+  m_EditorClassIdentifier: Assembly-CSharp::HealthItemData
+  itemType: 0
+  itemName: Small Healing Item
+  itemSprite: {fileID: -8866256092729413803, guid: adbfcaed7d3b9dd48a63066e86c11354, type: 3}
+  animatorController: {fileID: 9100000, guid: 73aa92eedb118c54797976187c9bfc28, type: 2}
+  dropable: 1
+  valueAmount: 2

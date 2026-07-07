@@ -1,0 +1,1422 @@
+fileFormatVersion: 2
+guid: 830fcc353f5c96e4ea66b1414287e052
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8684534381248481780
+    second: SNES - Mega Man X - Miscellaneous - Effects - Transparent_0
+  - first:
+      213: 4849924440183540410
+    second: SNES - Mega Man X - Miscellaneous - Effects - Transparent_1
+  - first:
+      213: -2995577872909881114
+    second: SNES - Mega Man X - Miscellaneous - Effects - Transparent_2
+  - first:
+      213: -1331042081207612777
+    second: SNES - Mega Man X - Miscellaneous - Effects - Transparent_3
+  - first:
+      213: -7110066892730624188
+    second: SNES - Mega Man X - Miscellaneous - Effects - Transparent_4
+  - first:
+      213: 8970550219227934077
+    second: SNES - Mega Man X - Miscellaneous - Effects - Transparent_5
+  - first:
+      213: 3684396344744635018
+    second: SNES - Mega Man X - Miscellaneous - Effects - Transparent_6
+  - first:
+      213: -2121544098411630997
+    second: SNES - Mega Man X - Miscellaneous - Effects - Transparent_7
+  - first:
+      213: -8224756412150348174
+    second: SNES - Mega Man X - Miscellaneous - Effects - Transparent_8
+  - first:
+      213: -3140455095095782713
+    second: SNES - Mega Man X - Miscellaneous - Effects - Transparent_9
+  - first:
+      213: -8888090911989137735
+    second: SNES - Mega Man X - Miscellaneous - Effects - Transparent_10
+  - first:
+      213: -4213316577887365018
+    second: SNES - Mega Man X - Miscellaneous - Effects - Transparent_11
+  - first:
+      213: 1727497936678873785
+    second: SNES - Mega Man X - Miscellaneous - Effects - Transparent_12
+  - first:
+      213: 6799860220319831687
+    second: SNES - Mega Man X - Miscellaneous - Effects - Transparent_13
+  - first:
+      213: -3053100290113244996
+    second: SNES - Mega Man X - Miscellaneous - Effects - Transparent_14
+  - first:
+      213: -8406859546718112062
+    second: SNES - Mega Man X - Miscellaneous - Effects - Transparent_15
+  - first:
+      213: -2494293167586693555
+    second: SNES - Mega Man X - Miscellaneous - Effects - Transparent_16
+  - first:
+      213: 647935913420751080
+    second: SNES - Mega Man X - Miscellaneous - Effects - Transparent_17
+  - first:
+      213: 1284410185555271728
+    second: SNES - Mega Man X - Miscellaneous - Effects - Transparent_18
+  - first:
+      213: -7225460148788545105
+    second: SNES - Mega Man X - Miscellaneous - Effects - Transparent_19
+  - first:
+      213: 2957598103594746759
+    second: SNES - Mega Man X - Miscellaneous - Effects - Transparent_20
+  - first:
+      213: 1491759140871979990
+    second: SNES - Mega Man X - Miscellaneous - Effects - Transparent_21
+  - first:
+      213: 8843920177967406412
+    second: SNES - Mega Man X - Miscellaneous - Effects - Transparent_22
+  - first:
+      213: -7305591781740566969
+    second: SNES - Mega Man X - Miscellaneous - Effects - Transparent_23
+  - first:
+      213: 7523016960064281721
+    second: SNES - Mega Man X - Miscellaneous - Effects - Transparent_24
+  - first:
+      213: -7062449911082580120
+    second: SNES - Mega Man X - Miscellaneous - Effects - Transparent_25
+  - first:
+      213: 7711275897430463217
+    second: SNES - Mega Man X - Miscellaneous - Effects - Transparent_26
+  - first:
+      213: 1843254818387663924
+    second: SNES - Mega Man X - Miscellaneous - Effects - Transparent_27
+  - first:
+      213: 5487525121706236810
+    second: SNES - Mega Man X - Miscellaneous - Effects - Transparent_28
+  - first:
+      213: 1229698198088096838
+    second: SNES - Mega Man X - Miscellaneous - Effects - Transparent_29
+  - first:
+      213: -7053095323888888244
+    second: SNES - Mega Man X - Miscellaneous - Effects - Transparent_30
+  - first:
+      213: 6269980757935200525
+    second: SNES - Mega Man X - Miscellaneous - Effects - Transparent_31
+  - first:
+      213: -7778925186052957088
+    second: SNES - Mega Man X - Miscellaneous - Effects - Transparent_32
+  - first:
+      213: 4884238607198310879
+    second: SNES - Mega Man X - Miscellaneous - Effects - Transparent_33
+  - first:
+      213: 1619748779531380993
+    second: SNES - Mega Man X - Miscellaneous - Effects - Transparent_34
+  - first:
+      213: 4508786110435715076
+    second: SNES - Mega Man X - Miscellaneous - Effects - Transparent_35
+  - first:
+      213: -2428747626250186878
+    second: SNES - Mega Man X - Miscellaneous - Effects - Transparent_36
+  - first:
+      213: 4035089912428941632
+    second: SNES - Mega Man X - Miscellaneous - Effects - Transparent_37
+  - first:
+      213: 4607175847661274926
+    second: SNES - Mega Man X - Miscellaneous - Effects - Transparent_38
+  - first:
+      213: -1351123261251854993
+    second: SNES - Mega Man X - Miscellaneous - Effects - Transparent_39
+  - first:
+      213: -2417272744401758101
+    second: SNES - Mega Man X - Miscellaneous - Effects - Transparent_40
+  - first:
+      213: 1196786144547183308
+    second: SNES - Mega Man X - Miscellaneous - Effects - Transparent_41
+  - first:
+      213: -2109795782548907481
+    second: SNES - Mega Man X - Miscellaneous - Effects - Transparent_42
+  - first:
+      213: -4341495768441314660
+    second: SNES - Mega Man X - Miscellaneous - Effects - Transparent_43
+  - first:
+      213: -3048150721035375729
+    second: SNES - Mega Man X - Miscellaneous - Effects - Transparent_44
+  - first:
+      213: -2522815080191472788
+    second: SNES - Mega Man X - Miscellaneous - Effects - Transparent_45
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Miscellaneous - Effects - Transparent_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 183
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c06740e2ef55a7780800000000000000
+      internalID: -8684534381248481780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Miscellaneous - Effects - Transparent_1
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 122
+        width: 37
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aba00a415946e4340800000000000000
+      internalID: 4849924440183540410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Miscellaneous - Effects - Transparent_2
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 122
+        width: 50
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e0bf2cbbc19d66d0800000000000000
+      internalID: -2995577872909881114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Miscellaneous - Effects - Transparent_3
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 122
+        width: 45
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79a06808740378de0800000000000000
+      internalID: -1331042081207612777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Miscellaneous - Effects - Transparent_4
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 122
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4479681f4d7f35d90800000000000000
+      internalID: -7110066892730624188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Miscellaneous - Effects - Transparent_5
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 122
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7d22e875ebcd7c70800000000000000
+      internalID: 8970550219227934077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Miscellaneous - Effects - Transparent_6
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 122
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8a604c64fa912330800000000000000
+      internalID: 3684396344744635018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Miscellaneous - Effects - Transparent_7
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 83
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6e29d602e2ce82e0800000000000000
+      internalID: -2121544098411630997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Miscellaneous - Effects - Transparent_8
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 122
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27689a9ae9bcbdd80800000000000000
+      internalID: -8224756412150348174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Miscellaneous - Effects - Transparent_9
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 183
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c210c7dabcda64d0800000000000000
+      internalID: -3140455095095782713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Miscellaneous - Effects - Transparent_10
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 122
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9be728b186827a480800000000000000
+      internalID: -8888090911989137735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Miscellaneous - Effects - Transparent_11
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 122
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66852c045ea4785c0800000000000000
+      internalID: -4213316577887365018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Miscellaneous - Effects - Transparent_12
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 122
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bae6f1883e49f710800000000000000
+      internalID: 1727497936678873785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Miscellaneous - Effects - Transparent_13
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 122
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 786197ad7d4fd5e50800000000000000
+      internalID: 6799860220319831687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Miscellaneous - Effects - Transparent_18
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 85
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0306ae7324423d110800000000000000
+      internalID: 1284410185555271728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Miscellaneous - Effects - Transparent_19
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 84
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa9b7bcd6420abb90800000000000000
+      internalID: -7225460148788545105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Miscellaneous - Effects - Transparent_20
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 101
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78342212ecf7b0920800000000000000
+      internalID: 2957598103594746759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Miscellaneous - Effects - Transparent_21
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 89
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d3cd12f80bc3b410800000000000000
+      internalID: 1491759140871979990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Miscellaneous - Effects - Transparent_22
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 99
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4d18a57b8aebba70800000000000000
+      internalID: 8843920177967406412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Miscellaneous - Effects - Transparent_23
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 53
+        width: 37
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 746275f2bf25d9a90800000000000000
+      internalID: -7305591781740566969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Miscellaneous - Effects - Transparent_24
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 63
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97cded70110276860800000000000000
+      internalID: 7523016960064281721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Miscellaneous - Effects - Transparent_25
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 62
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8670fed69332dfd90800000000000000
+      internalID: -7062449911082580120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Miscellaneous - Effects - Transparent_26
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 66
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f2df579294f30b60800000000000000
+      internalID: 7711275897430463217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Miscellaneous - Effects - Transparent_27
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 60
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43c1688cd7e849910800000000000000
+      internalID: 1843254818387663924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Miscellaneous - Effects - Transparent_28
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 69
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8b1557260b972c40800000000000000
+      internalID: 5487525121706236810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Miscellaneous - Effects - Transparent_29
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 49
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c9af5fef3c01110800000000000000
+      internalID: 1229698198088096838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Miscellaneous - Effects - Transparent_30
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 49
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4652acfb2f5e1e90800000000000000
+      internalID: -7053095323888888244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Miscellaneous - Effects - Transparent_31
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 49
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0913419742730750800000000000000
+      internalID: 6269980757935200525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Miscellaneous - Effects - Transparent_32
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 48
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06c59fef1c4bb0490800000000000000
+      internalID: -7778925186052957088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Miscellaneous - Effects - Transparent_33
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 49
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd1dd4ca22d48c340800000000000000
+      internalID: 4884238607198310879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Miscellaneous - Effects - Transparent_34
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 50
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1092755eee08a7610800000000000000
+      internalID: 1619748779531380993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Miscellaneous - Effects - Transparent_35
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 51
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4086cb0341d629e30800000000000000
+      internalID: 4508786110435715076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Miscellaneous - Effects - Transparent_36
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 57
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28fc848e6ea5b4ed0800000000000000
+      internalID: -2428747626250186878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Miscellaneous - Effects - Transparent_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 27
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 041d61385e48ff730800000000000000
+      internalID: 4035089912428941632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Miscellaneous - Effects - Transparent_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e270c99060affef30800000000000000
+      internalID: 4607175847661274926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Miscellaneous - Effects - Transparent_39
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 2
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6dd05d6d88df3de0800000000000000
+      internalID: -1351123261251854993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Miscellaneous - Effects - Transparent_40
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6813b80f3f147ed0800000000000000
+      internalID: -2417272744401758101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Miscellaneous - Effects - Transparent_41
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cca18d958a6db9010800000000000000
+      internalID: 1196786144547183308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Miscellaneous - Effects - Transparent_42
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 3
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72a1e88f9ef78b2e0800000000000000
+      internalID: -2109795782548907481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Miscellaneous - Effects - Transparent_43
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 6
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c92a130d998efb3c0800000000000000
+      internalID: -4341495768441314660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Miscellaneous - Effects - Transparent_44
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8be5daa11bc2b5d0800000000000000
+      internalID: -3048150721035375729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Miscellaneous - Effects - Transparent_45
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 2
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b403f0d092dfcd0800000000000000
+      internalID: -2522815080191472788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Miscellaneous - Effects - Transparent_46
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 183
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc8fa51f8f3c3243b1155e533b91181
+      internalID: 857973789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Miscellaneous - Effects - Transparent_47
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 183
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52069838495ccc439dbd4bc90b5c8fb
+      internalID: -682836267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Miscellaneous - Effects - Transparent_48
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 183
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d552b0f115f624997158512c88bd87
+      internalID: -290713765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Miscellaneous - Effects - Transparent_49
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 183
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af73bbd28392df4ab066781d2c1a935
+      internalID: 679862359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Miscellaneous - Effects - Transparent_50
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 183
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29abe93e3f7b5bd45a7f8943719bae74
+      internalID: -35996809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Miscellaneous - Effects - Transparent_51
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 183
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01bcc9b496b81ce47aef804512eb3d4b
+      internalID: 2144978043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Miscellaneous - Effects - Transparent_52
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 183
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e78bb845ad08f499b3967edd11e8b4
+      internalID: -1386483382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Miscellaneous - Effects - Transparent_53
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 183
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e39876535c2f76042b13ea5867e36647
+      internalID: -1090730809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 4494c08548ce1c141911acda7c0e7830
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SNES - Mega Man X - Miscellaneous - Effects - Transparent_0: -8684534381248481780
+      SNES - Mega Man X - Miscellaneous - Effects - Transparent_1: 4849924440183540410
+      SNES - Mega Man X - Miscellaneous - Effects - Transparent_10: -8888090911989137735
+      SNES - Mega Man X - Miscellaneous - Effects - Transparent_11: -4213316577887365018
+      SNES - Mega Man X - Miscellaneous - Effects - Transparent_12: 1727497936678873785
+      SNES - Mega Man X - Miscellaneous - Effects - Transparent_13: 6799860220319831687
+      SNES - Mega Man X - Miscellaneous - Effects - Transparent_14: -3053100290113244996
+      SNES - Mega Man X - Miscellaneous - Effects - Transparent_15: -8406859546718112062
+      SNES - Mega Man X - Miscellaneous - Effects - Transparent_16: -2494293167586693555
+      SNES - Mega Man X - Miscellaneous - Effects - Transparent_17: 647935913420751080
+      SNES - Mega Man X - Miscellaneous - Effects - Transparent_18: 1284410185555271728
+      SNES - Mega Man X - Miscellaneous - Effects - Transparent_19: -7225460148788545105
+      SNES - Mega Man X - Miscellaneous - Effects - Transparent_2: -2995577872909881114
+      SNES - Mega Man X - Miscellaneous - Effects - Transparent_20: 2957598103594746759
+      SNES - Mega Man X - Miscellaneous - Effects - Transparent_21: 1491759140871979990
+      SNES - Mega Man X - Miscellaneous - Effects - Transparent_22: 8843920177967406412
+      SNES - Mega Man X - Miscellaneous - Effects - Transparent_23: -7305591781740566969
+      SNES - Mega Man X - Miscellaneous - Effects - Transparent_24: 7523016960064281721
+      SNES - Mega Man X - Miscellaneous - Effects - Transparent_25: -7062449911082580120
+      SNES - Mega Man X - Miscellaneous - Effects - Transparent_26: 7711275897430463217
+      SNES - Mega Man X - Miscellaneous - Effects - Transparent_27: 1843254818387663924
+      SNES - Mega Man X - Miscellaneous - Effects - Transparent_28: 5487525121706236810
+      SNES - Mega Man X - Miscellaneous - Effects - Transparent_29: 1229698198088096838
+      SNES - Mega Man X - Miscellaneous - Effects - Transparent_3: -1331042081207612777
+      SNES - Mega Man X - Miscellaneous - Effects - Transparent_30: -7053095323888888244
+      SNES - Mega Man X - Miscellaneous - Effects - Transparent_31: 6269980757935200525
+      SNES - Mega Man X - Miscellaneous - Effects - Transparent_32: -7778925186052957088
+      SNES - Mega Man X - Miscellaneous - Effects - Transparent_33: 4884238607198310879
+      SNES - Mega Man X - Miscellaneous - Effects - Transparent_34: 1619748779531380993
+      SNES - Mega Man X - Miscellaneous - Effects - Transparent_35: 4508786110435715076
+      SNES - Mega Man X - Miscellaneous - Effects - Transparent_36: -2428747626250186878
+      SNES - Mega Man X - Miscellaneous - Effects - Transparent_37: 4035089912428941632
+      SNES - Mega Man X - Miscellaneous - Effects - Transparent_38: 4607175847661274926
+      SNES - Mega Man X - Miscellaneous - Effects - Transparent_39: -1351123261251854993
+      SNES - Mega Man X - Miscellaneous - Effects - Transparent_4: -7110066892730624188
+      SNES - Mega Man X - Miscellaneous - Effects - Transparent_40: -2417272744401758101
+      SNES - Mega Man X - Miscellaneous - Effects - Transparent_41: 1196786144547183308
+      SNES - Mega Man X - Miscellaneous - Effects - Transparent_42: -2109795782548907481
+      SNES - Mega Man X - Miscellaneous - Effects - Transparent_43: -4341495768441314660
+      SNES - Mega Man X - Miscellaneous - Effects - Transparent_44: -3048150721035375729
+      SNES - Mega Man X - Miscellaneous - Effects - Transparent_45: -2522815080191472788
+      SNES - Mega Man X - Miscellaneous - Effects - Transparent_46: 857973789
+      SNES - Mega Man X - Miscellaneous - Effects - Transparent_47: -682836267
+      SNES - Mega Man X - Miscellaneous - Effects - Transparent_48: -290713765
+      SNES - Mega Man X - Miscellaneous - Effects - Transparent_49: 679862359
+      SNES - Mega Man X - Miscellaneous - Effects - Transparent_5: 8970550219227934077
+      SNES - Mega Man X - Miscellaneous - Effects - Transparent_50: -35996809
+      SNES - Mega Man X - Miscellaneous - Effects - Transparent_51: 2144978043
+      SNES - Mega Man X - Miscellaneous - Effects - Transparent_52: -1386483382
+      SNES - Mega Man X - Miscellaneous - Effects - Transparent_53: -1090730809
+      SNES - Mega Man X - Miscellaneous - Effects - Transparent_6: 3684396344744635018
+      SNES - Mega Man X - Miscellaneous - Effects - Transparent_7: -2121544098411630997
+      SNES - Mega Man X - Miscellaneous - Effects - Transparent_8: -8224756412150348174
+      SNES - Mega Man X - Miscellaneous - Effects - Transparent_9: -3140455095095782713
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

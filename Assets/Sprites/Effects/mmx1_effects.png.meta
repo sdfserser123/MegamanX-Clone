@@ -1,0 +1,1718 @@
+fileFormatVersion: 2
+guid: 102d02118f75a5e48bb787d7f168651c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2318135021376764572
+    second: mmx1_effects_0
+  - first:
+      213: 4009258363848596409
+    second: mmx1_effects_1
+  - first:
+      213: 9008515262672225030
+    second: mmx1_effects_2
+  - first:
+      213: -3341511452751557168
+    second: mmx1_effects_3
+  - first:
+      213: -936189577390461444
+    second: mmx1_effects_4
+  - first:
+      213: -2267262620557707112
+    second: mmx1_effects_5
+  - first:
+      213: -979572073595392120
+    second: mmx1_effects_6
+  - first:
+      213: -7937700434532407531
+    second: mmx1_effects_7
+  - first:
+      213: -6843762736959312071
+    second: mmx1_effects_8
+  - first:
+      213: 97232104419803883
+    second: mmx1_effects_9
+  - first:
+      213: 8822185855153336845
+    second: mmx1_effects_10
+  - first:
+      213: 5919694196291597649
+    second: mmx1_effects_11
+  - first:
+      213: 2561289195951443674
+    second: mmx1_effects_12
+  - first:
+      213: 1433346392919381992
+    second: mmx1_effects_13
+  - first:
+      213: 3287312803807482054
+    second: mmx1_effects_14
+  - first:
+      213: 722708573167234509
+    second: mmx1_effects_15
+  - first:
+      213: -5311573717539889640
+    second: mmx1_effects_16
+  - first:
+      213: 5241417967093206451
+    second: mmx1_effects_17
+  - first:
+      213: -5560951240280618969
+    second: mmx1_effects_18
+  - first:
+      213: -982396865257617121
+    second: mmx1_effects_19
+  - first:
+      213: -1328362009202786932
+    second: mmx1_effects_20
+  - first:
+      213: -5872798107733553922
+    second: mmx1_effects_21
+  - first:
+      213: 8335376443891485938
+    second: mmx1_effects_22
+  - first:
+      213: 5818102043684130205
+    second: mmx1_effects_23
+  - first:
+      213: 2662643864295755126
+    second: mmx1_effects_24
+  - first:
+      213: 9207439026054557006
+    second: mmx1_effects_25
+  - first:
+      213: 4499111489416641588
+    second: mmx1_effects_26
+  - first:
+      213: 1959368149166012087
+    second: mmx1_effects_27
+  - first:
+      213: -1420372041626176996
+    second: mmx1_effects_28
+  - first:
+      213: -3495095946549994066
+    second: mmx1_effects_29
+  - first:
+      213: -6733509428833757594
+    second: mmx1_effects_30
+  - first:
+      213: -3406781348447704533
+    second: mmx1_effects_31
+  - first:
+      213: -5282954789438986085
+    second: mmx1_effects_32
+  - first:
+      213: 1350154512675282875
+    second: mmx1_effects_33
+  - first:
+      213: -4060914310230409895
+    second: mmx1_effects_34
+  - first:
+      213: -7133150098023173003
+    second: mmx1_effects_35
+  - first:
+      213: -4924786522854229425
+    second: mmx1_effects_36
+  - first:
+      213: 6604036215021946490
+    second: mmx1_effects_37
+  - first:
+      213: -7667387765053661354
+    second: mmx1_effects_38
+  - first:
+      213: -5385659594037524004
+    second: mmx1_effects_39
+  - first:
+      213: 7335189440030800857
+    second: mmx1_effects_40
+  - first:
+      213: 6675422359250507113
+    second: mmx1_effects_41
+  - first:
+      213: -2201704910629959202
+    second: mmx1_effects_42
+  - first:
+      213: 2201377611931968053
+    second: mmx1_effects_43
+  - first:
+      213: -5691102813513493402
+    second: mmx1_effects_44
+  - first:
+      213: 7977663980670787491
+    second: mmx1_effects_45
+  - first:
+      213: -4687986180895244695
+    second: mmx1_effects_46
+  - first:
+      213: 6285553037016169329
+    second: mmx1_effects_47
+  - first:
+      213: -5694082546414767098
+    second: mmx1_effects_48
+  - first:
+      213: 1551317046769438800
+    second: mmx1_effects_49
+  - first:
+      213: -7049543893474273100
+    second: mmx1_effects_50
+  - first:
+      213: -4690294592643197464
+    second: mmx1_effects_51
+  - first:
+      213: 3442835750571770887
+    second: mmx1_effects_52
+  - first:
+      213: -1972229712021010177
+    second: mmx1_effects_53
+  - first:
+      213: 4205056967286181613
+    second: mmx1_effects_54
+  - first:
+      213: 3771918136139392505
+    second: mmx1_effects_55
+  - first:
+      213: 3353469077307424710
+    second: mmx1_effects_56
+  - first:
+      213: -9096545805952346451
+    second: mmx1_effects_57
+  - first:
+      213: 6502200038271999578
+    second: mmx1_effects_58
+  - first:
+      213: -702019054521450319
+    second: mmx1_effects_59
+  - first:
+      213: -5832056905324188043
+    second: mmx1_effects_60
+  - first:
+      213: -4586561779870053312
+    second: mmx1_effects_61
+  - first:
+      213: -8045551542543770774
+    second: mmx1_effects_62
+  - first:
+      213: -6414645558206273387
+    second: mmx1_effects_63
+  - first:
+      213: 4520750036408649398
+    second: mmx1_effects_64
+  - first:
+      213: 2370821219522052202
+    second: mmx1_effects_65
+  - first:
+      213: -8316442876658909878
+    second: mmx1_effects_66
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mmx1_effects_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 131
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4650275ea7454dfd0800000000000000
+      internalID: -2318135021376764572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_effects_1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 131
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bb95fd6d3fb3a730800000000000000
+      internalID: 4009258363848596409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_effects_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 131
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6034349f6eca40d70800000000000000
+      internalID: 9008515262672225030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_effects_3
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 131
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dd08dda90190a1d0800000000000000
+      internalID: -3341511452751557168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_effects_4
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 130
+        width: 46
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfde73d1a8cf103f0800000000000000
+      internalID: -936189577390461444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_effects_5
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 130
+        width: 32
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 898f229b8a01980e0800000000000000
+      internalID: -2267262620557707112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_effects_6
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 106
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88f2479936cd762f0800000000000000
+      internalID: -979572073595392120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_effects_7
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 114
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5176b32b28f97d190800000000000000
+      internalID: -7937700434532407531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_effects_8
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 116
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93f2c70fc021601a0800000000000000
+      internalID: -6843762736959312071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_effects_9
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 123
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be2c4b47510795100800000000000000
+      internalID: 97232104419803883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_effects_10
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 125
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d02f3e61b43be6a70800000000000000
+      internalID: 8822185855153336845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_effects_11
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 127
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 155f6e4f18af62250800000000000000
+      internalID: 5919694196291597649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_effects_12
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 123
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade4bb314f68b8320800000000000000
+      internalID: 2561289195951443674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_effects_13
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 119
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e71c0e33f444e310800000000000000
+      internalID: 1433346392919381992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_effects_14
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 115
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c0d9800491ee9d20800000000000000
+      internalID: 3287312803807482054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_effects_15
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 115
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd23c34e93970a00800000000000000
+      internalID: 722708573167234509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_effects_16
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 115
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81edbb788df7946b0800000000000000
+      internalID: -5311573717539889640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_effects_17
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 133
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bdc0ffeed14db840800000000000000
+      internalID: 5241417967093206451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_effects_18
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 115
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7284ec56f4883d2b0800000000000000
+      internalID: -5560951240280618969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_effects_19
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 3
+        width: 48
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f19ccd98143dd52f0800000000000000
+      internalID: -982396865257617121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_effects_20
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 115
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8df7546ac5b09de0800000000000000
+      internalID: -1328362009202786932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_effects_21
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 115
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efc84f68c31af7ea0800000000000000
+      internalID: -5872798107733553922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_effects_22
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 106
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc8f4786b43da370800000000000000
+      internalID: 8335376443891485938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_effects_23
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 104
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9d44ccabfc0eb050800000000000000
+      internalID: 5818102043684130205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_effects_24
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 103
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67dc8bebc7c93f420800000000000000
+      internalID: 2662643864295755126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_effects_25
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4dec07d20567cf70800000000000000
+      internalID: 9207439026054557006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_effects_26
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 105
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43cbe83ff0e007e30800000000000000
+      internalID: 4499111489416641588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_effects_27
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 108
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b6314353f2113b10800000000000000
+      internalID: 1959368149166012087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_effects_28
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 102
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c12b9f15723d94ce0800000000000000
+      internalID: -1420372041626176996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_effects_29
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 104
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaddaf121ccee7fc0800000000000000
+      internalID: -3495095946549994066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_effects_30
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 20
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 666de92a9d4cd82a0800000000000000
+      internalID: -6733509428833757594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_effects_31
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 28
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2a295ad96ea8b0d0800000000000000
+      internalID: -3406781348447704533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_effects_32
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 23
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b986a0bfb9c2fa6b0800000000000000
+      internalID: -5282954789438986085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_effects_33
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 64
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbf96e73066bcb210800000000000000
+      internalID: 1350154512675282875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_effects_34
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 19
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95d7a6353fbb4a7c0800000000000000
+      internalID: -4060914310230409895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_effects_35
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 56
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57439c567c5f10d90800000000000000
+      internalID: -7133150098023173003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_effects_36
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 22
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4a74a600c4a7abb0800000000000000
+      internalID: -4924786522854229425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_effects_37
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 61
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a76c238a2ff36ab50800000000000000
+      internalID: 6604036215021946490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_effects_38
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 14
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65fdcc48377f79590800000000000000
+      internalID: -7667387765053661354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_effects_39
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 60
+        width: 32
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd90838322b4245b0800000000000000
+      internalID: -5385659594037524004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_effects_40
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 54
+        width: 34
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.11}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9db7b35aee3dbc560800000000000000
+      internalID: 7335189440030800857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_effects_41
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 22
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96593d0944dd3ac50800000000000000
+      internalID: 6675422359250507113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_effects_42
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 31
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed90ba58c09f171e0800000000000000
+      internalID: -2201704910629959202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_effects_43
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 10
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 532e3bf464ddc8e10800000000000000
+      internalID: 2201377611931968053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_effects_44
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 38
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6645d44d4242501b0800000000000000
+      internalID: -5691102813513493402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_effects_45
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 38
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3af9f497f1b56be60800000000000000
+      internalID: 7977663980670787491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_effects_46
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 10
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96e7ccf086de0feb0800000000000000
+      internalID: -4687986180895244695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_effects_47
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 49
+        width: 34
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17bf9345f25ca3750800000000000000
+      internalID: 6285553037016169329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_effects_48
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 31
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6043233b71e8af0b0800000000000000
+      internalID: -5694082546414767098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_effects_50
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 22
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b811f0dd2dfa2e90800000000000000
+      internalID: -7049543893474273100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_effects_54
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 22
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deecf5b480d5b5a30800000000000000
+      internalID: 4205056967286181613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_effects_55
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 31
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f521727f8b885430800000000000000
+      internalID: 3771918136139392505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_effects_56
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 8
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cf7a2ebb5ae98e20800000000000000
+      internalID: 3353469077307424710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_effects_58
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 38
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5edbb31c747c3a50800000000000000
+      internalID: 6502200038271999578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_effects_59
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 38
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b081bda36de146f0800000000000000
+      internalID: -702019054521450319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_effects_60
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 8
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57ea948e42f501fa0800000000000000
+      internalID: -5832056905324188043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_effects_61
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 49
+        width: 34
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.02}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04c4672ac524950c0800000000000000
+      internalID: -4586561779870053312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_effects_63
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 31
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 598e31fd9d99af6a0800000000000000
+      internalID: -6414645558206273387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_effects_64
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 22
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b6c876c43eecbe30800000000000000
+      internalID: 4520750036408649398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx1_effects_65
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 5
+        width: 58
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6002978659d6e020800000000000000
+      internalID: 2370821219522052202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 03aa91d1f484081438c3b74a97a697c0
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      mmx1_effects_0: -2318135021376764572
+      mmx1_effects_1: 4009258363848596409
+      mmx1_effects_10: 8822185855153336845
+      mmx1_effects_11: 5919694196291597649
+      mmx1_effects_12: 2561289195951443674
+      mmx1_effects_13: 1433346392919381992
+      mmx1_effects_14: 3287312803807482054
+      mmx1_effects_15: 722708573167234509
+      mmx1_effects_16: -5311573717539889640
+      mmx1_effects_17: 5241417967093206451
+      mmx1_effects_18: -5560951240280618969
+      mmx1_effects_19: -982396865257617121
+      mmx1_effects_2: 9008515262672225030
+      mmx1_effects_20: -1328362009202786932
+      mmx1_effects_21: -5872798107733553922
+      mmx1_effects_22: 8335376443891485938
+      mmx1_effects_23: 5818102043684130205
+      mmx1_effects_24: 2662643864295755126
+      mmx1_effects_25: 9207439026054557006
+      mmx1_effects_26: 4499111489416641588
+      mmx1_effects_27: 1959368149166012087
+      mmx1_effects_28: -1420372041626176996
+      mmx1_effects_29: -3495095946549994066
+      mmx1_effects_3: -3341511452751557168
+      mmx1_effects_30: -6733509428833757594
+      mmx1_effects_31: -3406781348447704533
+      mmx1_effects_32: -5282954789438986085
+      mmx1_effects_33: 1350154512675282875
+      mmx1_effects_34: -4060914310230409895
+      mmx1_effects_35: -7133150098023173003
+      mmx1_effects_36: -4924786522854229425
+      mmx1_effects_37: 6604036215021946490
+      mmx1_effects_38: -7667387765053661354
+      mmx1_effects_39: -5385659594037524004
+      mmx1_effects_4: -936189577390461444
+      mmx1_effects_40: 7335189440030800857
+      mmx1_effects_41: 6675422359250507113
+      mmx1_effects_42: -2201704910629959202
+      mmx1_effects_43: 2201377611931968053
+      mmx1_effects_44: -5691102813513493402
+      mmx1_effects_45: 7977663980670787491
+      mmx1_effects_46: -4687986180895244695
+      mmx1_effects_47: 6285553037016169329
+      mmx1_effects_48: -5694082546414767098
+      mmx1_effects_49: 1551317046769438800
+      mmx1_effects_5: -2267262620557707112
+      mmx1_effects_50: -7049543893474273100
+      mmx1_effects_51: -4690294592643197464
+      mmx1_effects_52: 3442835750571770887
+      mmx1_effects_53: -1972229712021010177
+      mmx1_effects_54: 4205056967286181613
+      mmx1_effects_55: 3771918136139392505
+      mmx1_effects_56: 3353469077307424710
+      mmx1_effects_57: -9096545805952346451
+      mmx1_effects_58: 6502200038271999578
+      mmx1_effects_59: -702019054521450319
+      mmx1_effects_6: -979572073595392120
+      mmx1_effects_60: -5832056905324188043
+      mmx1_effects_61: -4586561779870053312
+      mmx1_effects_62: -8045551542543770774
+      mmx1_effects_63: -6414645558206273387
+      mmx1_effects_64: 4520750036408649398
+      mmx1_effects_65: 2370821219522052202
+      mmx1_effects_66: -8316442876658909878
+      mmx1_effects_7: -7937700434532407531
+      mmx1_effects_8: -6843762736959312071
+      mmx1_effects_9: 97232104419803883
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

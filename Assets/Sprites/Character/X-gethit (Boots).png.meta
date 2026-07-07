@@ -1,0 +1,832 @@
+fileFormatVersion: 2
+guid: 55f208d5bfee75c4bbc625123d71c507
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7979718731984866434
+    second: X-gethit (Boots)_0
+  - first:
+      213: 8988510211401331716
+    second: X-gethit (Boots)_1
+  - first:
+      213: 7233848186449269853
+    second: X-gethit (Boots)_2
+  - first:
+      213: 7790837700681004884
+    second: X-gethit (Boots)_3
+  - first:
+      213: -4819763633178524133
+    second: X-gethit (Boots)_4
+  - first:
+      213: 6551283193478618525
+    second: X-gethit (Boots)_5
+  - first:
+      213: -4788368721239364306
+    second: X-gethit (Boots)_6
+  - first:
+      213: -5735493053577405667
+    second: X-gethit (Boots)_7
+  - first:
+      213: 4143031765998757235
+    second: X-gethit (Boots)_8
+  - first:
+      213: -1665175270447505574
+    second: X-gethit (Boots)_9
+  - first:
+      213: 1289081666061887263
+    second: X-gethit (Boots)_10
+  - first:
+      213: -566390619392428347
+    second: X-gethit (Boots)_11
+  - first:
+      213: -7998280120045416606
+    second: X-gethit (Boots)_12
+  - first:
+      213: 910928517001571802
+    second: X-gethit (Boots)_13
+  - first:
+      213: 8658702974509138839
+    second: X-gethit (Boots)_14
+  - first:
+      213: 325055707676496896
+    second: X-gethit (Boots)_15
+  - first:
+      213: -2451200445322993421
+    second: X-gethit (Boots)_16
+  - first:
+      213: 3101864498774644926
+    second: X-gethit (Boots)_17
+  - first:
+      213: 9193667769469408210
+    second: X-gethit (Boots)_18
+  - first:
+      213: 4002997345998351295
+    second: X-gethit (Boots)_19
+  - first:
+      213: -5630035344293089309
+    second: X-gethit (Boots)_20
+  - first:
+      213: 4721918414851387440
+    second: X-gethit (Boots)_21
+  - first:
+      213: -7023293269502471803
+    second: X-gethit (Boots)_22
+  - first:
+      213: 1683008666061826645
+    second: X-gethit (Boots)_23
+  - first:
+      213: 3314006894479321516
+    second: X-gethit (Boots)_24
+  - first:
+      213: -5736275142116319749
+    second: X-gethit (Boots)_25
+  - first:
+      213: 1110472653273223190
+    second: X-gethit (Boots)_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: X-gethit (Boots)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 46
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28c0d7b88e7adbe60800000000000000
+      internalID: 7979718731984866434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-gethit (Boots)_1
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 46
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4043c820a6a9dbc70800000000000000
+      internalID: 8988510211401331716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-gethit (Boots)_2
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 46
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d549968599ac36460800000000000000
+      internalID: 7233848186449269853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-gethit (Boots)_3
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 46
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 457ffc37c9d9e1c60800000000000000
+      internalID: 7790837700681004884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-gethit (Boots)_4
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 46
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b164c070382cc1db0800000000000000
+      internalID: -4819763633178524133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-gethit (Boots)_5
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 46
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9d9742ba55daea50800000000000000
+      internalID: 6551283193478618525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-gethit (Boots)_6
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 46
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2dafe4940c4c8db0800000000000000
+      internalID: -4788368721239364306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-gethit (Boots)_7
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 46
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b5cc9a47f6760b0800000000000000
+      internalID: -5735493053577405667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-gethit (Boots)_8
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 47
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 375e381c0710f7930800000000000000
+      internalID: 4143031765998757235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-gethit (Boots)_9
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 47
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5f163cf9eb14e8e0800000000000000
+      internalID: -1665175270447505574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-gethit (Boots)_10
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 47
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f17661802fcb3e110800000000000000
+      internalID: 1289081666061887263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-gethit (Boots)_11
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 47
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c630078bb6c328f0800000000000000
+      internalID: -566390619392428347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-gethit (Boots)_12
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 43
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26fcf968b96600190800000000000000
+      internalID: -7998280120045416606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-gethit (Boots)_13
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adde6afe8a444ac00800000000000000
+      internalID: 910928517001571802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-gethit (Boots)_14
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 0
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7934c33ca74e92870800000000000000
+      internalID: 8658702974509138839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-gethit (Boots)_15
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 0
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0045544a174d28400800000000000000
+      internalID: 325055707676496896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-gethit (Boots)_16
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 0
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f06e379e269bfdd0800000000000000
+      internalID: -2451200445322993421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-gethit (Boots)_17
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 0
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb89bd6c3590c0b20800000000000000
+      internalID: 3101864498774644926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-gethit (Boots)_18
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d39e2e4028769f70800000000000000
+      internalID: 9193667769469408210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-gethit (Boots)_19
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 0
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbb201d90e08d8730800000000000000
+      internalID: 4002997345998351295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-gethit (Boots)_20
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 0
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef248efea81ed1b0800000000000000
+      internalID: -5630035344293089309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-gethit (Boots)_21
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 0
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 030b79fc7cf978140800000000000000
+      internalID: 4721918414851387440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-gethit (Boots)_22
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 0
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 581d9ed7bff388e90800000000000000
+      internalID: -7023293269502471803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-gethit (Boots)_23
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 0
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55ae48ef67f3b5710800000000000000
+      internalID: 1683008666061826645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-gethit (Boots)_24
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 0
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca9a2a056b7bdfd20800000000000000
+      internalID: 3314006894479321516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-gethit (Boots)_25
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 0
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfdd04c7628a460b0800000000000000
+      internalID: -5736275142116319749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-gethit (Boots)_26
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 0
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 610d22f9ef0396f00800000000000000
+      internalID: 1110472653273223190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      X-gethit (Boots)_0: 7979718731984866434
+      X-gethit (Boots)_1: 8988510211401331716
+      X-gethit (Boots)_10: 1289081666061887263
+      X-gethit (Boots)_11: -566390619392428347
+      X-gethit (Boots)_12: -7998280120045416606
+      X-gethit (Boots)_13: 910928517001571802
+      X-gethit (Boots)_14: 8658702974509138839
+      X-gethit (Boots)_15: 325055707676496896
+      X-gethit (Boots)_16: -2451200445322993421
+      X-gethit (Boots)_17: 3101864498774644926
+      X-gethit (Boots)_18: 9193667769469408210
+      X-gethit (Boots)_19: 4002997345998351295
+      X-gethit (Boots)_2: 7233848186449269853
+      X-gethit (Boots)_20: -5630035344293089309
+      X-gethit (Boots)_21: 4721918414851387440
+      X-gethit (Boots)_22: -7023293269502471803
+      X-gethit (Boots)_23: 1683008666061826645
+      X-gethit (Boots)_24: 3314006894479321516
+      X-gethit (Boots)_25: -5736275142116319749
+      X-gethit (Boots)_26: 1110472653273223190
+      X-gethit (Boots)_3: 7790837700681004884
+      X-gethit (Boots)_4: -4819763633178524133
+      X-gethit (Boots)_5: 6551283193478618525
+      X-gethit (Boots)_6: -4788368721239364306
+      X-gethit (Boots)_7: -5735493053577405667
+      X-gethit (Boots)_8: 4143031765998757235
+      X-gethit (Boots)_9: -1665175270447505574
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
