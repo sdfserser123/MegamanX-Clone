@@ -17,6 +17,22 @@ public class Projectile : MonoBehaviour
     {
         boxCollider = GetComponent<BoxCollider2D>();
         animator = GetComponent<Animator>();
+        GameObject[] enemies = GameObject.FindGameObjectsWithTag("Enemy");
+        foreach (GameObject enemyObj in enemies)
+        {
+            Collider2D[] enemyCols = enemyObj.GetComponentsInChildren<Collider2D>();
+            foreach (Collider2D col in enemyCols)
+            {
+                if (!(col is CapsuleCollider2D))
+                {
+                    Physics2D.IgnoreCollision(col, boxCollider, true);
+                }
+                else
+                {
+                    Physics2D.IgnoreCollision(col, boxCollider, false);
+                }
+            }
+        }
     }
 
     // Update is called once per frame
@@ -35,16 +51,19 @@ public class Projectile : MonoBehaviour
     {
         if ((whatIsTarget.value & (1 << collision.gameObject.layer)) > 0)
         {
-            Enemy enemy = collision.GetComponent<Enemy>();
+            if (!(collision is CapsuleCollider2D)) return;
+
+            Enemy enemy = collision.GetComponentInParent<Enemy>();
             if (enemy != null)
             {
+                if (enemy.isDead) return;
+
                 float HpBeforeHit = enemy.CurrHp;
 
                 if (damaged == 1)
                 {
                     HandleExplosion();
                 }
-
                 else if (damaged > 1 && collision.CompareTag("Boss") && damaged < HpBeforeHit)
                 {
                     HandleExplosion();
@@ -55,7 +74,6 @@ public class Projectile : MonoBehaviour
             {
                 HandleExplosion();
             }
-            
         }
     }
     private void HandleExplosion()

@@ -45,6 +45,7 @@ GameObject:
   - component: {fileID: 5281562828820905571}
   - component: {fileID: 9176260415617951314}
   - component: {fileID: 8157175023675168468}
+  - component: {fileID: 4916597100279798241}
   m_Layer: 7
   m_Name: BatEnemy
   m_TagString: Enemy
@@ -113,8 +114,8 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_GlobalIlluminationMeshLod: 0
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 811341197
+  m_SortingLayer: 3
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_Sprite: {fileID: 2459134245666868420, guid: 71ee2935172800f48afff0f0c1ae3706, type: 3}
@@ -143,6 +144,10 @@ MonoBehaviour:
   collideDamage: 2
   explodeEffectPrefab: {fileID: 6759946175018425598, guid: 05b9b588d31da5b4caf596e5cba59289, type: 3}
   explodePoint: []
+  damageInterval: 0.5
+  player: {fileID: 0}
+  attackPoint: {fileID: 0}
+  isDead: 0
   ceilingCheck: {fileID: 3721537215917293751}
   ceilingCheckSize: {x: 1.29, y: 0.45}
   moveSpeed: 6
@@ -245,3 +250,40 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!70 &4916597100279798241
+CapsuleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9009121570810114248}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0, y: -0.25}
+  m_Size: {x: 1.36, y: 1.79}
+  m_Direction: 0

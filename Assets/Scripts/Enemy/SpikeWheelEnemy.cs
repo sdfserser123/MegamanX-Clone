@@ -8,19 +8,14 @@ public class SpikeWheelEnemy : Enemy
     [SerializeField] private Transform wallCheck;
     [SerializeField] private Vector2 wallCheckSize;
 
-
     private bool isWalled;
     private bool isTurning = false;
     private float direction;
     private float originalMoveSpeed;
 
-    private Rigidbody2D rb;
-    private CircleCollider2D boxCollider;
-    void Start()
+    void Awake()
     {
         base.Start();
-        rb = GetComponent<Rigidbody2D>();
-        boxCollider = GetComponent<CircleCollider2D>();
         rb.gravityScale = 7f;
         originalMoveSpeed = moveSpeed;
     }
@@ -59,7 +54,7 @@ public class SpikeWheelEnemy : Enemy
 
     private bool isGrounded()
     {
-        RaycastHit2D raycastHit = Physics2D.BoxCast(boxCollider.bounds.center, boxCollider.bounds.size, 0f, Vector2.down, 0.1f, groundLayer);
+        RaycastHit2D raycastHit = Physics2D.BoxCast(physicsCollider.bounds.center, physicsCollider.bounds.size, 0f, Vector2.down, 0.1f, groundLayer);
         return raycastHit.collider != null;
     }
 
@@ -89,7 +84,7 @@ public class SpikeWheelEnemy : Enemy
     {
         base.OnBecameVisible();
 
-        rb.bodyType = RigidbodyType2D.Dynamic;
+        physicsCollider.enabled = true;
         if (player == null)
         {
             GameObject playerObj = GameObject.FindGameObjectWithTag("Player");
@@ -112,7 +107,8 @@ public class SpikeWheelEnemy : Enemy
         if (currHp == 1 && damage == 1)
         {
             Animator animator = GetComponent<Animator>();
-
+            isDead = true;
+            Physics2D.IgnoreCollision(this.GetComponent<Collider2D>(), player.GetComponent<BoxCollider2D>(), true);
             animator.SetTrigger("Fell");
         }
         else
@@ -127,22 +123,32 @@ public class SpikeWheelEnemy : Enemy
 
     protected override void OnBecameInvisible()
     {
-        rb.bodyType = RigidbodyType2D.Static;
+        Physics2D.IgnoreCollision(physicsCollider, player.GetComponent<BoxCollider2D>(), false);
+        Physics2D.IgnoreCollision(physicsCollider, player.GetComponent<BoxCollider2D>(), false);
+        physicsCollider.enabled = false;
         base.OnBecameInvisible();
     }
 
     protected override void Die()
     {
-        rb.bodyType = RigidbodyType2D.Static;
+        Physics2D.IgnoreCollision(physicsCollider, player.GetComponent<BoxCollider2D>(), true);
+        physicsCollider.enabled = false;
         base.Die();
     }
 
-    protected  void OnDrawGizmosSelected()
+    protected void OnDrawGizmosSelected()
     {
         if (wallCheck != null)
         {
             Gizmos.color = Color.red;
             Gizmos.DrawWireCube(wallCheck.position, wallCheckSize);
         }
+    }
+
+    protected override Vector2 getSize()
+    {
+        print("SpikeWheelEnemy size: " + new Vector2(physicsCollider.bounds.size.x, 4f));
+        return new Vector2(0.1f, 0.1f);
+
     }
 }

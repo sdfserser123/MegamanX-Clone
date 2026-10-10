@@ -42,7 +42,7 @@ public class MegamanXMovement : MonoBehaviour
     public Transform busterPoint;
 
     private Rigidbody2D rb;
-    private BoxCollider2D boxCollider;
+    public BoxCollider2D boxCollider;
     [SerializeField] private PhysicsMaterial2D slipperyMaterial;
     [SerializeField] private PhysicsMaterial2D slipperyMaterial2;
     private float moveInput;

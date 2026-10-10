@@ -14,7 +14,6 @@ public class BatEnemy : Enemy
     private bool isActive = false;
     private bool isInWall = false;
 
-    private Rigidbody2D rb;
     private Animator animator;
     private Coroutine trackingCoroutine;
     private Coroutine behaviorCycleCoroutine;
@@ -28,7 +27,6 @@ public class BatEnemy : Enemy
     protected override void Start()
     {
         base.Start();
-        rb = GetComponent<Rigidbody2D>();
         rb.gravityScale = 0f;
 
         if (player == null)

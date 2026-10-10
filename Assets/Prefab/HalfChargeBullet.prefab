@@ -16,7 +16,7 @@ GameObject:
   - component: {fileID: 5201874551986226962}
   m_Layer: 8
   m_Name: HalfChargeBullet
-  m_TagString: Untagged
+  m_TagString: Player Attack
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -82,7 +82,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 1098095471
-  m_SortingLayer: 5
+  m_SortingLayer: 7
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_Sprite: {fileID: 4744424373222739763, guid: 2eb2e0d089dda4040aa9e33a94119f40, type: 3}
@@ -184,6 +184,7 @@ MonoBehaviour:
   whatIsTarget:
     serializedVersion: 2
     m_Bits: 512
+  damaged: 0
 --- !u!95 &5201874551986226962
 Animator:
   serializedVersion: 7

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 57f6b6cfda44ee7419d9e6c8fc153ce8, type: 3}
+  m_Name: BunnyBullet
+  m_EditorClassIdentifier: Assembly-CSharp::ProjectileData
+  projectileType: 0
+  projectileName: BunnyBullet
+  projectileSprite: {fileID: 3353936075574255370, guid: 85a7cd4390a6a8240905563b5bceea67, type: 3}
+  animatorController: {fileID: 9100000, guid: a165a364b86e6834e8a03cb48afdc6e6, type: 2}
+  speed: 20
+  damage: 2
+  lifetime: 3
